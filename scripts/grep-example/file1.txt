@@ -1,0 +1,10 @@
+123.33.44 GET/users 200 OK
+123.33.44 get/users 404 Not Found
+123.33.44 GET/users 500 Internal Server Error
+123.33.44 POST/users 201 Created
+123.33.44 POST/users 400 Bad Request
+123.33.44 GET/users 200 OK
+123.33.44 get/users 404 Not Found
+123.33.44 GET/users 500 Internal Server Error
+123.33.44 POST/users 201 Created
+123.33.44 POST/users 400 Bad Request
